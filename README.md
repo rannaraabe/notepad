@@ -1,6 +1,6 @@
-# appnotes
+# Notes
 
-A new Flutter project.
+This is a simple Flutter project: a notepad.
 
 ## Getting Started
 
